@@ -1,0 +1,14 @@
+     [echo] JRE version = 1.6.0_13
+     [echo] ant dir = C:\ti\ccsv5\eclipse\plugins\com.ti.dvt.analysis.framework_3.2.0.201205011655
+     [echo] plugin_dir = C:\ti\ccsv5\eclipse\plugins\com.ti.dvt.analysis.framework_3.2.0.201205011655
+     [echo] eclipse_dir = C:\ti\ccsv5\eclipse\plugins\com.ti.dvt.analysis.framework_3.2.0.201205011655/../..
+     [echo] base_dir = C:\ti\ccsv5\eclipse\plugins\com.ti.ccstudio.base_5.2.0.237
+
+getCCStudioDir:
+     [echo] ccs.debugServerDir = C:/ti/ccsv5/ccs_base/DebugServer
+
+installDVT:
+     [echo] dest_dir = C:/ti/ccsv5/ccs_base/DebugServer/../dvt_3.2.0.201205011655
+    [unzip] Expanding: C:\ti\ccsv5\eclipse\plugins\com.ti.dvt.analysis.framework_3.2.0.201205011655\dvt.zip into C:\ti\ccsv5\ccs_base\dvt_3.2.0.201205011655
+
+BUILD SUCCESSFUL

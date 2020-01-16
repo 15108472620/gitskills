@@ -1,0 +1,17 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://dashboard/index.html",
+      "windowType": "dockable",
+      "x": 112,
+      "y": 68,
+      "width": 1044,
+      "height": 696,
+      "layout": null,
+      "panels": []
+    }
+  },
+  "panels": {}
+}

@@ -1,0 +1,42 @@
+LudashiBox COM Server 5.1.16 r13843 win.amd64 (Aug 17 2018 13:31:37) release log
+00:00:00.011982 main     Log opened 2018-09-24T13:10:02.069758000Z
+00:00:00.011982 main     Build Type: release
+00:00:00.011982 main     OS Product: Windows 10
+00:00:00.011982 main     OS Release: 10.0.17134
+00:00:00.011982 main     OS Service Pack: 
+00:00:00.031955 main     DMI Product Name: 80WW
+00:00:00.051929 main     DMI Product Version: RESCUER R720-15IKBN
+00:00:00.051929 main     Host RAM: 8084MB (7.8GB) total, 4552MB (4.4GB) available
+00:00:00.051929 main     Executable: E:\LDSGameMaster\LDSGamePlayerPK\vbox\LDSBoxSVC.exe
+00:00:00.051929 main     Process ID: 16760
+00:00:00.051929 main     Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.247671          LudashiBox: object creation starts
+00:00:00.247671          Home directory: 'C:\Users\14569\.LDSBoxHypervisorGlobal'
+00:00:00.247671          Installed Drivers:
+00:00:00.259651          Loading settings file "C:\Users\14569\.LDSBoxHypervisorGlobal\LDSBoxHypervisor.xml" with version "1.12-windows"
+00:00:00.355524          Getting USB descriptor failed with error 31
+00:00:00.355524          Getting USB descriptor failed with error 31
+00:00:00.359519          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb57e). Please, report the idVendor and idProduct to ludashibox.org.
+00:00:00.359519          USB: Unknown USB device detected (idVendor: 0x0cf3, idProduct: 0xe500). Please, report the idVendor and idProduct to ludashibox.org.
+00:00:00.391502          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.411448          HostDnsMonitor: old information
+00:00:00.411448            no server entries
+00:00:00.411448            no domain set
+00:00:00.411448            no search string entries
+00:00:00.411448          HostDnsMonitor: new information
+00:00:00.411448            server 1: 202.112.14.21
+00:00:00.411448            server 2: 202.112.14.11
+00:00:00.411448            no domain set
+00:00:00.411448            no search string entries
+00:00:00.411448          HostDnsMonitorProxy::notify
+00:00:00.411448          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:00.415443          VD: VDInit finished
+00:00:00.415443          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={20180202-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.495352          Loading settings file "E:\LDSGameMaster\LDSGamePlayerPK\vms\vbox_1\vbox_1.ldsbox" with version "1.16-windows"
+00:00:00.495352          LudashiBox: object created
+00:00:08.612578 main     LudashiBox: object deletion starts
+00:00:08.612578 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20180202-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'E:\LDSGameMaster\LDSGamePlayerPK\vms\vbox_1\android_system_disk.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:08.612578 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20180202-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'E:\LDSGameMaster\LDSGamePlayerPK\vms\vbox_1\android_data_disk.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:08.612578 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20180202-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'E:\LDSGameMaster\LDSGamePlayerPK\vms\vbox_1\sdcard.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:08.615574 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20180202-46b4-cde9-91af-1e9d5b6cd945} aComponent={LudashiBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:08.616576 main     LudashiBox: object deleted

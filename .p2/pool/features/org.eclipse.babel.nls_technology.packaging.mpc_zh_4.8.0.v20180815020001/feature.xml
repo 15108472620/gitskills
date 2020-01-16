@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_technology.packaging.mpc_zh"
+	label="Babel Language Pack for technology.packaging.mpc in Chinese (Simplified) (9.57%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for technology.packaging.mpc in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.epp.mpc.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2169" install-size="2169" />
+	<plugin fragment="true" id="org.eclipse.epp.mpc.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5820" install-size="5820" />
+</feature>

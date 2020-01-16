@@ -1,0 +1,44 @@
+LudashiBox COM Server 5.1.16 r13843 win.amd64 (Aug 17 2018 13:31:37) release log
+00:00:00.046864 main     Log opened 2018-09-25T06:54:48.918881400Z
+00:00:00.046864 main     Build Type: release
+00:00:00.046864 main     OS Product: Windows 10
+00:00:00.046864 main     OS Release: 10.0.17134
+00:00:00.046864 main     OS Service Pack: 
+00:00:00.109399 main     DMI Product Name: 80WW
+00:00:00.156215 main     DMI Product Version: RESCUER R720-15IKBN
+00:00:00.156215 main     Host RAM: 8084MB (7.8GB) total, 5666MB (5.5GB) available
+00:00:00.156215 main     Executable: E:\LDSGameMaster\LDSGamePlayerPK\vbox\LDSBoxSVC.exe
+00:00:00.156215 main     Process ID: 14316
+00:00:00.156215 main     Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.687338          LudashiBox: object creation starts
+00:00:00.687338          Home directory: 'C:\Users\14569\.LDSBoxHypervisorGlobal'
+00:00:00.702960          Installed Drivers:
+00:00:00.718582            E:\LDSGameMaster\LDSGamePlayerPK\vbox\VBoxUSBMon.sys (Version: 5.1.16.13843)
+00:00:00.734208          Loading settings file "C:\Users\14569\.LDSBoxHypervisorGlobal\LDSBoxHypervisor.xml" with version "1.12-windows"
+00:00:00.749824          Getting USB descriptor failed with error 31
+00:00:00.749824          Getting USB descriptor failed with error 31
+00:00:00.749824          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb57e). Please, report the idVendor and idProduct to ludashibox.org.
+00:00:00.749824          USB: Unknown USB device detected (idVendor: 0x0cf3, idProduct: 0xe500). Please, report the idVendor and idProduct to ludashibox.org.
+00:00:00.827930          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.906037          HostDnsMonitorProxy::notify
+00:00:00.906037          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:00.921658          VD: VDInit finished
+00:00:00.921658          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={20180202-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.984144          Loading settings file "E:\LDSGameMaster\LDSGamePlayerPK\vms\vbox_1\vbox_1.ldsbox" with version "1.16-windows"
+00:00:00.999765          LudashiBox: object created
+00:00:05.412452 dns-monitor HostDnsMonitor: old information
+00:00:05.412452 dns-monitor   no server entries
+00:00:05.412452 dns-monitor   no domain set
+00:00:05.412452 dns-monitor   no search string entries
+00:00:05.412452 dns-monitor HostDnsMonitor: new information
+00:00:05.412452 dns-monitor   server 1: 202.112.14.21
+00:00:05.412452 dns-monitor   server 2: 202.112.14.11
+00:00:05.412452 dns-monitor   no domain set
+00:00:05.412452 dns-monitor   no search string entries
+00:00:05.412452 dns-monitor HostDnsMonitorProxy::notify
+00:00:06.380975 main     LudashiBox: object deletion starts
+00:00:06.380975 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20180202-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'E:\LDSGameMaster\LDSGamePlayerPK\vms\vbox_1\android_system_disk.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:06.396597 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20180202-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'E:\LDSGameMaster\LDSGamePlayerPK\vms\vbox_1\android_data_disk.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:06.396597 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={20180202-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'E:\LDSGameMaster\LDSGamePlayerPK\vms\vbox_1\sdcard.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:06.412218 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={20180202-46b4-cde9-91af-1e9d5b6cd945} aComponent={LudashiBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:06.412218 main     LudashiBox: object deleted

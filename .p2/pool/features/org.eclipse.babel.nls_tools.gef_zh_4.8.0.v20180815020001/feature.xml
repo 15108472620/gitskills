@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_tools.gef_zh"
+	label="Babel Language Pack for tools.gef in Chinese (Simplified) (2.08%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for tools.gef in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.gef.dot.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2148" install-size="2148" />
+</feature>

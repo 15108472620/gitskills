@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_modeling.ecp_zh"
+	label="Babel Language Pack for modeling.ecp in Chinese (Simplified) (44.04%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for modeling.ecp in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.emf.ecp.common.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1738" install-size="1738" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2203" install-size="2203" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.diffmerge.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1649" install-size="1649" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.diffmerge.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1384" install-size="1384" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.diffmerge.swt.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1707" install-size="1707" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1604" install-size="1604" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.edit.swt.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1744" install-size="1744" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.emf2web.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2463" install-size="2463" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.emfstore.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2376" install-size="2376" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.emfstore.ui.search.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2334" install-size="2334" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.ide.editor.view.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2498" install-size="2498" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.quickfix.ui.e4.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2548" install-size="2548" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.test.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1685" install-size="1685" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.test.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1382" install-size="1382" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.ui.e3.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2617" install-size="2617" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2517" install-size="2517" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.ui.validation.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2361" install-size="2361" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.ui.view.swt.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1609" install-size="1609" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.categorization.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1747" install-size="1747" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.categorization.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1395" install-size="1395" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.compoundcontrol.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1662" install-size="1662" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.compoundcontrol.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1392" install-size="1392" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.control.multireference.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1706" install-size="1706" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.core.swt.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1747" install-size="1747" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.custom.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1630" install-size="1630" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.custom.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1387" install-size="1387" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.dynamictree.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1779" install-size="1779" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.dynamictree.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1392" install-size="1392" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.group.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1685" install-size="1685" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.group.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1386" install-size="1386" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.groupedgrid.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1724" install-size="1724" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.groupedgrid.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1392" install-size="1392" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.horizontal.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1657" install-size="1657" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.horizontal.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1389" install-size="1389" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.indexdmr.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1666" install-size="1666" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.indexdmr.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1388" install-size="1388" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.keyattributedmr.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1639" install-size="1639" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.keyattributedmr.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1397" install-size="1397" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.label.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1692" install-size="1692" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.label.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1386" install-size="1386" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.mappingdmr.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1633" install-size="1633" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.mappingdmr.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1389" install-size="1389" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2377" install-size="2377" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.model.editor.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2091" install-size="2091" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1938" install-size="1938" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.model.preview.e3.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2572" install-size="2572" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.rule.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2122" install-size="2122" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.rule.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1384" install-size="1384" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.section.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1685" install-size="1685" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.section.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1387" install-size="1387" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.stack.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1689" install-size="1689" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.stack.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1386" install-size="1386" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.stack.ui.swt.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1387" install-size="1387" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.table.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1780" install-size="1780" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.table.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1385" install-size="1385" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.template.annotation.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1671" install-size="1671" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.template.annotation.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1396" install-size="1396" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.template.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2946" install-size="2946" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.template.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1390" install-size="1390" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.template.tooling.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2531" install-size="2531" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.treemasterdetail.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1637" install-size="1637" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.treemasterdetail.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1395" install-size="1395" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.vertical.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1648" install-size="1648" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.vertical.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1388" install-size="1388" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.viewproxy.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1677" install-size="1677" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.view.viewproxy.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1388" install-size="1388" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.workspace.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2404" install-size="2404" />
+	<plugin fragment="true" id="org.eclipse.emf.ecp.workspace.ui.rap.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2406" install-size="2406" />
+	<plugin fragment="true" id="org.eclipse.emfforms.core.services.databinding.testmodel.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1401" install-size="1401" />
+	<plugin fragment="true" id="org.eclipse.emfforms.datatemplate.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1730" install-size="1730" />
+	<plugin fragment="true" id="org.eclipse.emfforms.datatemplate.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1393" install-size="1393" />
+	<plugin fragment="true" id="org.eclipse.emfforms.rulerepository.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1745" install-size="1745" />
+	<plugin fragment="true" id="org.eclipse.emfforms.rulerepository.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1392" install-size="1392" />
+	<plugin fragment="true" id="org.eclipse.emfforms.rulerepository.tooling.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2650" install-size="2650" />
+	<plugin fragment="true" id="org.eclipse.emfforms.spreadsheet.core.error.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1881" install-size="1881" />
+	<plugin fragment="true" id="org.eclipse.emfforms.spreadsheet.core.error.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1396" install-size="1396" />
+	<plugin fragment="true" id="org.eclipse.emfforms.swt.control.multiattribute.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2527" install-size="2527" />
+	<plugin fragment="true" id="org.eclipse.emfforms.view.annotation.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1670" install-size="1670" />
+	<plugin fragment="true" id="org.eclipse.emfforms.view.annotation.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1389" install-size="1389" />
+	<plugin fragment="true" id="org.eclipse.emfforms.view.controlgrid.model.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1698" install-size="1698" />
+	<plugin fragment="true" id="org.eclipse.emfforms.view.controlgrid.model.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1391" install-size="1391" />
+</feature>

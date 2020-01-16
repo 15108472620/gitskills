@@ -1,0 +1,5 @@
+{
+  "lastRemindVersion": "2.1.4",
+  "news_category_url": "https://www.cocos.com/{{language}}/{{category}}",
+  "news_msg_url": "http://creator-api.cocos.com/api/dashboard/msgs"
+}

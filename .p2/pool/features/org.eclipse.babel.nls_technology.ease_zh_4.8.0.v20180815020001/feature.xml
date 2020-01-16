@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_technology.ease_zh"
+	label="Babel Language Pack for technology.ease in Chinese (Simplified) (42.41%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for technology.ease in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.ease.lang.unittest.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1386" install-size="1386" />
+	<plugin fragment="true" id="org.eclipse.ease.lang.unittest.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1662" install-size="1662" />
+	<plugin fragment="true" id="org.eclipse.ease.modules.modeling.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1551" install-size="1551" />
+	<plugin fragment="true" id="org.eclipse.ease.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4148" install-size="4148" />
+	<plugin fragment="true" id="org.eclipse.ease.ui.scripts.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2684" install-size="2684" />
+</feature>

@@ -1,0 +1,14 @@
+2020-01-03T06:04:18.100Z - normal: Load ~/.CocosCreator/settings.json
+2020-01-03T06:04:18.102Z - normal: checking language setting...
+2020-01-03T06:04:18.103Z - normal: Language: zh
+2020-01-03T06:04:18.103Z - normal: Initializing Cocos Creator Dashboard
+2020-01-03T06:04:18.179Z - success: protocol editor-framework registered
+2020-01-03T06:04:18.179Z - success: protocol app registered
+2020-01-03T06:04:18.179Z - success: protocol theme registered
+2020-01-03T06:04:18.179Z - success: protocol packages registered
+2020-01-03T06:04:18.180Z - success: protocol unpack registerred
+2020-01-03T06:04:18.183Z - success: protocol disable-commonjs registerred
+2020-01-03T06:04:18.184Z - normal: Loading packages
+2020-01-03T06:04:18.185Z - normal: Watching packages
+2020-01-03T06:04:18.185Z - normal: Run Application
+2020-01-03T06:04:19.128Z - normal: connected!

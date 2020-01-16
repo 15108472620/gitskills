@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_datatools_zh"
+	label="Babel Language Pack for datatools in Chinese (Simplified) (75.53%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for datatools in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.datatools.common.doc.user.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1384" install-size="1384" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.apache.derby.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1485" install-size="1485" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.apache.derby.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1894" install-size="1894" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.apache.derby.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5318" install-size="5318" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.console.profile.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4118" install-size="4118" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.db.generic.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3442" install-size="3442" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.db.generic.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1550" install-size="1550" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.dbdefinition.genericJDBC.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1496" install-size="1496" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.doc.user.contexts.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1398" install-size="1398" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.doc.user.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1391" install-size="1391" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.jdt.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2737" install-size="2737" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="7074" install-size="7074" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.consumer.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3258" install-size="3258" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.design.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2895" install-size="2895" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.design.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4498" install-size="4498" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.flatfile.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4023" install-size="4023" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.flatfile.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4348" install-size="4348" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.jdbc.dbprofile.sample.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1424" install-size="1424" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3833" install-size="3833" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.profile.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2732" install-size="2732" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.oda.template.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4877" install-size="4877" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.sample.cp.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1399" install-size="1399" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.sample.ftp.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2583" install-size="2583" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.sqm.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5315" install-size="5315" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.sqm.core.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="7796" install-size="7796" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.sqm.server.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5253" install-size="5253" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.ui.dse.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4387" install-size="4387" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="7494" install-size="7494" />
+	<plugin fragment="true" id="org.eclipse.datatools.connectivity.ui.templates.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5876" install-size="5876" />
+	<plugin fragment="true" id="org.eclipse.datatools.doc.user.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1380" install-size="1380" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.finfo.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1791" install-size="1791" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.hsqldb.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1515" install-size="1515" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.hsqldb.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1750" install-size="1750" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.hsqldb.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3407" install-size="3407" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.iseries.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1529" install-size="1529" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.iseries.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1764" install-size="1764" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.iseries.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3832" install-size="3832" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.luw.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1566" install-size="1566" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.luw.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3997" install-size="3997" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.luw.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3622" install-size="3622" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2795" install-size="2795" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.zseries.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1621" install-size="1621" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.zseries.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1777" install-size="1777" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.db2.zseries.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3879" install-size="3879" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.informix.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1511" install-size="1511" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.informix.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1739" install-size="1739" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.informix.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3621" install-size="3621" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3618" install-size="3618" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ibm.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3429" install-size="3429" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ingres.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1400" install-size="1400" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ingres.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1540" install-size="1540" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.ingres.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2918" install-size="2918" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.jdt.classpath.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3296" install-size="3296" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.msft.sqlserver.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1518" install-size="1518" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.msft.sqlserver.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1789" install-size="1789" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.msft.sqlserver.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3978" install-size="3978" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.mysql.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1487" install-size="1487" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.mysql.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1730" install-size="1730" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.mysql.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1541" install-size="1541" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oda.ecore.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1828" install-size="1828" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oda.ecore.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2947" install-size="2947" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oda.ws.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2983" install-size="2983" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oda.ws.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4156" install-size="4156" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oda.xml.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3421" install-size="3421" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oda.xml.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5319" install-size="5319" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oracle.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1511" install-size="1511" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oracle.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1774" install-size="1774" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.oracle.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3425" install-size="3425" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.postgresql.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1400" install-size="1400" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.postgresql.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1650" install-size="1650" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.postgresql.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1522" install-size="1522" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sap.maxdb.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1444" install-size="1444" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sap.maxdb.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2716" install-size="2716" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sap.maxdb.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1545" install-size="1545" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sdk.feature.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1553" install-size="1553" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sqlite.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1399" install-size="1399" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sqlite.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2481" install-size="2481" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sqlite.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3016" install-size="3016" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.asa.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1507" install-size="1507" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.asa.models.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1422" install-size="1422" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.asa.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4772" install-size="4772" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="19295" install-size="19295" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.asa.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1739" install-size="1739" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.ase.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1506" install-size="1506" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.ase.models.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1438" install-size="1438" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.ase.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3142" install-size="3142" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.ase.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1872" install-size="1872" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.models.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1432" install-size="1432" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4593" install-size="4593" />
+	<plugin fragment="true" id="org.eclipse.datatools.enablement.sybase.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4785" install-size="4785" />
+	<plugin fragment="true" id="org.eclipse.datatools.help.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1429" install-size="1429" />
+	<plugin fragment="true" id="org.eclipse.datatools.intro.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1377" install-size="1377" />
+	<plugin fragment="true" id="org.eclipse.datatools.modelbase.dbdefinition.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1429" install-size="1429" />
+	<plugin fragment="true" id="org.eclipse.datatools.modelbase.derby.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1426" install-size="1426" />
+	<plugin fragment="true" id="org.eclipse.datatools.modelbase.sql.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="6709" install-size="6709" />
+	<plugin fragment="true" id="org.eclipse.datatools.modelbase.sql.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1807" install-size="1807" />
+	<plugin fragment="true" id="org.eclipse.datatools.modelbase.sql.query.edit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3710" install-size="3710" />
+	<plugin fragment="true" id="org.eclipse.datatools.modelbase.sql.query.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1479" install-size="1479" />
+	<plugin fragment="true" id="org.eclipse.datatools.modelbase.sql.xml.query.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1462" install-size="1462" />
+	<plugin fragment="true" id="org.eclipse.datatools.releng.builder.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1397" install-size="1397" />
+	<plugin fragment="true" id="org.eclipse.datatools.sdk.feature.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1545" install-size="1545" />
+	<plugin fragment="true" id="org.eclipse.datatools.sdk.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1523" install-size="1523" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.common.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="7263" install-size="7263" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.data.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5333" install-size="5333" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.data.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5655" install-size="5655" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.db.derby.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2869" install-size="2869" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.db.derby.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1394" install-size="1394" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.db.generic.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2883" install-size="2883" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.db.generic.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1423" install-size="1423" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.ddlgen.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4913" install-size="4913" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.debugger.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4346" install-size="4346" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.debugger.core.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5084" install-size="5084" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.doc.user.contexts.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1396" install-size="1396" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.doc.user.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1390" install-size="1390" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.editor.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="7278" install-size="7278" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.editor.core.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2740" install-size="2740" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.parsers.sql.lexer.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1428" install-size="1428" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.parsers.sql.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3570" install-size="3570" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.parsers.sql.query.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5472" install-size="5472" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.parsers.sql.xml.query.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1499" install-size="1499" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.plan.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="7093" install-size="7093" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.result.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3342" install-size="3342" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.result.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="7352" install-size="7352" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.routineeditor.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="5200" install-size="5200" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.routineeditor.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="8230" install-size="8230" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.schemaobjecteditor.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1401" install-size="1401" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.schemaobjecteditor.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="6906" install-size="6906" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4309" install-size="4309" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.sql.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4451" install-size="4451" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.sql.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1382" install-size="1382" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.sqlbuilder.examples.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2398" install-size="2398" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.sqlbuilder.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="9978" install-size="9978" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.sqleditor.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="14635" install-size="14635" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.sqlscrapbook.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="7844" install-size="7844" />
+	<plugin fragment="true" id="org.eclipse.datatools.sqltools.tabledataeditor.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3329" install-size="3329" />
+</feature>

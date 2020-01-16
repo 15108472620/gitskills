@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_technology.packaging_zh"
+	label="Babel Language Pack for technology.packaging in Chinese (Simplified) (19.72%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for technology.packaging in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.epp.logging.aeri.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1841" install-size="1841" />
+	<plugin fragment="true" id="org.eclipse.epp.logging.aeri.ide.manual.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1613" install-size="1613" />
+	<plugin fragment="true" id="org.eclipse.epp.logging.aeri.ide.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3439" install-size="3439" />
+	<plugin fragment="true" id="org.eclipse.epp.package.committers.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2866" install-size="2866" />
+	<plugin fragment="true" id="org.eclipse.epp.package.cpp.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1427" install-size="1427" />
+	<plugin fragment="true" id="org.eclipse.epp.package.dsl.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1379" install-size="1379" />
+	<plugin fragment="true" id="org.eclipse.epp.package.java.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1448" install-size="1448" />
+	<plugin fragment="true" id="org.eclipse.epp.package.javascript.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1383" install-size="1383" />
+	<plugin fragment="true" id="org.eclipse.epp.package.jee.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1885" install-size="1885" />
+	<plugin fragment="true" id="org.eclipse.epp.package.parallel.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1446" install-size="1446" />
+	<plugin fragment="true" id="org.eclipse.epp.package.php.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1651" install-size="1651" />
+	<plugin fragment="true" id="org.eclipse.epp.package.rcp.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1439" install-size="1439" />
+	<plugin fragment="true" id="org.eclipse.epp.package.rust.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1652" install-size="1652" />
+	<plugin fragment="true" id="org.eclipse.epp.package.scout.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1380" install-size="1380" />
+</feature>

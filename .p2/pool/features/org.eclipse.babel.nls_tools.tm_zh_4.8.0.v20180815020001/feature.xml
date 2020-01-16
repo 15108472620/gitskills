@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_tools.tm_zh"
+	label="Babel Language Pack for tools.tm in Chinese (Simplified) (21.11%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for tools.tm in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.rse.connectorservice.ssh.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2557" install-size="2557" />
+	<plugin fragment="true" id="org.eclipse.rse.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2505" install-size="2505" />
+	<plugin fragment="true" id="org.eclipse.rse.dstore.security.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2417" install-size="2417" />
+	<plugin fragment="true" id="org.eclipse.rse.examples.dstore.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1383" install-size="1383" />
+	<plugin fragment="true" id="org.eclipse.rse.examples.tutorial.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1694" install-size="1694" />
+	<plugin fragment="true" id="org.eclipse.rse.files.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3539" install-size="3539" />
+	<plugin fragment="true" id="org.eclipse.rse.importexport.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4386" install-size="4386" />
+	<plugin fragment="true" id="org.eclipse.rse.processes.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3258" install-size="3258" />
+	<plugin fragment="true" id="org.eclipse.rse.services.dstore.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1646" install-size="1646" />
+	<plugin fragment="true" id="org.eclipse.rse.services.files.ftp.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2537" install-size="2537" />
+	<plugin fragment="true" id="org.eclipse.rse.services.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2894" install-size="2894" />
+	<plugin fragment="true" id="org.eclipse.rse.shells.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2680" install-size="2680" />
+	<plugin fragment="true" id="org.eclipse.rse.subsystems.files.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2735" install-size="2735" />
+	<plugin fragment="true" id="org.eclipse.rse.subsystems.files.dstore.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1389" install-size="1389" />
+	<plugin fragment="true" id="org.eclipse.rse.subsystems.files.ftp.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1406" install-size="1406" />
+	<plugin fragment="true" id="org.eclipse.rse.subsystems.wince.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1389" install-size="1389" />
+	<plugin fragment="true" id="org.eclipse.rse.terminals.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2474" install-size="2474" />
+	<plugin fragment="true" id="org.eclipse.rse.tests.framework.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1442" install-size="1442" />
+	<plugin fragment="true" id="org.eclipse.rse.ui.capabilities.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1393" install-size="1393" />
+	<plugin fragment="true" id="org.eclipse.rse.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="6103" install-size="6103" />
+	<plugin fragment="true" id="org.eclipse.rse.useractions.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3425" install-size="3425" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.connector.cdtserial.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1404" install-size="1404" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.connector.local.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1432" install-size="1432" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.connector.process.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2393" install-size="2393" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.connector.remote.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2394" install-size="2394" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.connector.serial.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2706" install-size="2706" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.connector.ssh.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3368" install-size="3368" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.connector.telnet.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2416" install-size="2416" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.control.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2780" install-size="2780" />
+	<plugin fragment="true" id="org.eclipse.tm.terminal.view.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3360" install-size="3360" />
+</feature>

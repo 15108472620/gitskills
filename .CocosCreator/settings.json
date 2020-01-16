@@ -1,0 +1,45 @@
+{
+  "android-sdk-root": "",
+  "ant-root": "",
+  "auto-build-js-engine": false,
+  "auto-compiler-scripts": true,
+  "auto-refresh": true,
+  "auto-sync-prefab": false,
+  "cpp-engine-path": "",
+  "http-proxy": "",
+  "js-engine-path": "",
+  "language": "zh",
+  "last-create": "E:\\cocos\\NewProject_1",
+  "last-create-path": "E:\\cocos",
+  "last-login": "",
+  "local-ip": 1,
+  "ndk-root": "",
+  "node-tree-state": 1,
+  "picture-editor-root": "",
+  "preview-browser": "default",
+  "preview-browser-list": [],
+  "preview-platform": "simulator",
+  "recently-opened": [
+    "C:\\Users\\14569\\Desktop\\zhsj",
+    "E:\\cocos\\NewProject_1"
+  ],
+  "remember-passwd": true,
+  "script-editor": "E:\\cocos\\Microsoft VS Code\\Code.exe",
+  "script-editor-list": [
+    {
+      "text": "Code.exe",
+      "value": "E:\\cocos\\Microsoft VS Code\\Code.exe"
+    }
+  ],
+  "show-console-log": false,
+  "show-meta-backup-dialog": true,
+  "simulator-debugger": false,
+  "simulator-orientation": false,
+  "simulator-resolution": 1,
+  "step": 0.1,
+  "trim-imported-image": true,
+  "use-default-cpp-engine": true,
+  "use-default-js-engine": true,
+  "watch-js-engine": false,
+  "wechatgame-app-path": ""
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_technology.egit_zh"
+	label="Babel Language Pack for technology.egit in Chinese (Simplified) (21.69%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for technology.egit in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.egit.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4721" install-size="4721" />
+	<plugin fragment="true" id="org.eclipse.egit.doc.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1552" install-size="1552" />
+	<plugin fragment="true" id="org.eclipse.egit.gitflow.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1397" install-size="1397" />
+	<plugin fragment="true" id="org.eclipse.egit.gitflow.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2482" install-size="2482" />
+	<plugin fragment="true" id="org.eclipse.egit.github.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1396" install-size="1396" />
+	<plugin fragment="true" id="org.eclipse.egit.mylyn.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1398" install-size="1398" />
+	<plugin fragment="true" id="org.eclipse.egit.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1390" install-size="1390" />
+	<plugin fragment="true" id="org.eclipse.egit.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="9459" install-size="9459" />
+	<plugin fragment="true" id="org.eclipse.egit.ui.smartimport.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1404" install-size="1404" />
+	<plugin fragment="true" id="org.eclipse.mylyn.github.core.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="3980" install-size="3980" />
+	<plugin fragment="true" id="org.eclipse.mylyn.github.doc.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1396" install-size="1396" />
+	<plugin fragment="true" id="org.eclipse.mylyn.github.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="4399" install-size="4399" />
+</feature>

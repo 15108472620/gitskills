@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feature
+	id="org.eclipse.babel.nls_modeling.graphiti_zh"
+	label="Babel Language Pack for modeling.graphiti in Chinese (Simplified) (23.97%)"
+	image="eclipse_update_120.jpg"
+	provider-name="%providerName"
+	version="4.8.0.v20180815020001">
+	<copyright>
+		%copyright
+	</copyright>
+	<license url="%licenseURL">
+		%license
+	</license>
+	<description>Babel Language Pack for modeling.graphiti in Chinese (Simplified)</description>
+	<plugin fragment="true" id="org.eclipse.graphiti.examples.chess.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1385" install-size="1385" />
+	<plugin fragment="true" id="org.eclipse.graphiti.examples.common.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2133" install-size="2133" />
+	<plugin fragment="true" id="org.eclipse.graphiti.examples.composite.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1401" install-size="1401" />
+	<plugin fragment="true" id="org.eclipse.graphiti.examples.filesystem.mm.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1391" install-size="1391" />
+	<plugin fragment="true" id="org.eclipse.graphiti.examples.filesystem.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1388" install-size="1388" />
+	<plugin fragment="true" id="org.eclipse.graphiti.examples.tutorial.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2108" install-size="2108" />
+	<plugin fragment="true" id="org.eclipse.graphiti.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2084" install-size="2084" />
+	<plugin fragment="true" id="org.eclipse.graphiti.pattern.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1378" install-size="1378" />
+	<plugin fragment="true" id="org.eclipse.graphiti.releng.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="1415" install-size="1415" />
+	<plugin fragment="true" id="org.eclipse.graphiti.tools.newprojectwizard.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2708" install-size="2708" />
+	<plugin fragment="true" id="org.eclipse.graphiti.ui.nl_zh" unpack="false" version="4.8.0.v20180815020001" download-size="2887" install-size="2887" />
+</feature>
